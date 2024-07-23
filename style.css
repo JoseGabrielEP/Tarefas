@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header , footer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: gray;
+    color: white;
+    padding: 16px;
+}
+
+img{
+    width: 480px;
+}
+
+div{
+    display: inline-block;
+    margin: 16px;
+    
+}
+
+section{
+    margin: 16px;
+}
+
+.games h2{
+    padding: 16px;
+    background-color: blueviolet;
+    color: white;
+}
+.games a{
+    padding: auto;
+    background-color: blueviolet;
+    color: white;
+}
+.sports h2{
+    padding: 16px;
+    background-color: rgb(24, 220, 181);
+    color: white;
+}
+.sports a{
+    background-color: rgb(24, 220, 181);
+    color: white;
+    padding: auto;
+}
+
+.music h2{
+    padding: 16px;
+    background-color: rgb(220, 0, 0);
+    color: white;
+}
+.music a{
+    background-color: rgb(220, 0, 0);
+    color: white;
+    padding: auto;
+}
